@@ -7,6 +7,8 @@ The PCB KiKad files in this repo implement a composite mod board for the ZX81 as
 
 If the backporch signal is not required then the 555 timer chip can be omitted.  I have used this on two ZX81's without the 555 and it results in a much better picture than the frequently described transistor mod alone.
 
+NOTE : This is V2 of the board.  V1 had a small error requiring a patch wire and track to be cut.  I have not yet had v2 manufactured and tested.
+
 # Parts list
 
 The following components are needed to complete the PCB
